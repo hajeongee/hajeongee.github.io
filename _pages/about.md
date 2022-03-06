@@ -2,23 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
+    <p>
+    <b>Campus E1 5</b>
+    <br />
+    <b>66123 Saarbrücken</b>
+    <br />
+    <b>Germany</b>
+    <br />
+    <b>Email: <a href="mailto:hejingli@mpi-sws.org"> hejingli@mpi-sws.org</b>
+    </p>
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+education: false #includes education info
+social: false  # includes social icons at the bottom of the page
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a first-year PhD student at [MPI-SWS](https://www.mpi-sws.org/) advised by [Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/index.html) after two years of experience as a research engineer at the same place. Before that I received my B.S. and M.S. from EE department at [KAIST](https://kaist.ac.kr/kr/). At KAIST I was part of the [INA lab](https://ina.kaist.ac.kr/new_home/) advised by [Dongsu Han](https://ina.kaist.ac.kr/~dongsuh/).  
