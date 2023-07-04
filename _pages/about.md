@@ -22,4 +22,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 education: false #includes education info
 social: false  # includes social icons at the bottom of the page
 ---
-I am a first-year PhD student at [MPI-SWS](https://www.mpi-sws.org/) advised by [Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/index.html) after two years of experience as a research engineer at the same place. Before that I received my B.S. and M.S. from EE department at [KAIST](https://kaist.ac.kr/kr/). At KAIST I was part of the [INA lab](https://ina.kaist.ac.kr/new_home/) advised by [Dongsu Han](https://ina.kaist.ac.kr/~dongsuh/).  
+I am a second-year PhD student at [MPI-SWS](https://www.mpi-sws.org/) advised by [Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/index.html) after two years of experience as a research engineer at the same place. Before that I received my B.S. and M.S. from EE department at [KAIST](https://kaist.ac.kr/kr/). At KAIST I was part of the [INA lab](https://ina.kaist.ac.kr/new_home/) advised by [Dongsu Han](https://ina.kaist.ac.kr/~dongsuh/).  
